@@ -12,10 +12,10 @@ metrics:
 Based on your Power BI analysis,
 1. Which SKU has the highest bad rating ratio? Exclude the SKUs having a 100 percent bad ratings ratio.
 2. Which SKU has the highest total of Good Ratings?
-3.Create sales and marketing dashboards by using all the filters and ensure to not use the date column.
-4.Identify the relationship between Units Sold, Revenue and Online market segment.
-5.The marketing team is keen on understanding the Web Traffic for the last quarter of 2022. You have been given the task of analysing the data and providing insights. Which month in the last quarter of 2022 had the highest web traffic?
-6.Synergix Solutions wants to better understand their online advertising expenditures. They are particularly interested in categorizing their spending into different buckets for more granular analysis. As a Power BI analyst, you are tasked with creating a new column in the 'Online' table that categorizes 'Online_Cost' into different spending categories.
+3. Create sales and marketing dashboards by using all the filters and ensure to not use the date column.
+4. Identify the relationship between Units Sold, Revenue and Online market segment.
+5. The marketing team is keen on understanding the Web Traffic for the last quarter of 2022. You have been given the task of analysing the data and providing insights. Which month in the last quarter of 2022 had the highest web traffic.
+6. Synergix Solutions wants to better understand their online advertising expenditures. They are particularly interested in categorizing their spending into different buckets for more granular analysis. As a Power BI analyst, you are tasked with creating a new column in the 'Online' table that categorizes 'Online_Cost' into different spending categories.
 Based on the data, the categories are as follows:
 - Low Spend: Less than $1824.47
 - Moderate Spend: Between $1824.47 and $2655.10
